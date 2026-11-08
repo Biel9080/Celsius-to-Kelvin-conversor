@@ -63,6 +63,17 @@ Durante este projeto, foram praticados:
 
 ---
 
+### Tela inicial
+![Tela inicial](pedro.png)
+
+### Funcionamento
+![Funcionamento](pedro2.png)
+
+### Tela final
+![Tela final](pedro3.png)
+
+---
+
 ## 📄 Licença
 
 MIT License.
